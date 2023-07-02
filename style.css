@@ -1,0 +1,278 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.justify-content{
+	align-items:center;
+}
+	
+/*header section start */
+
+header{
+	background-color:black;
+	padding:15px 0;
+}
+
+
+.item-1{
+	background-color:white;
+	height:50px;
+	
+}
+
+.item-2{
+	
+	background-color:white;
+	height:50px;
+}
+
+/* header section end*/
+
+/* banner section start */
+
+.banner{
+	height:400px;
+	
+}
+
+.item-3{
+	width:100%;
+	height:400px;
+	background-color:black;
+}
+	
+/* banner section end */
+
+
+/* about section start */
+
+.about{
+	
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-4{
+	background-color:white;
+	height:350px;
+}
+
+.item-5{
+	background-color:white;
+	height:350px;
+
+}
+
+/* about section end */
+
+
+/* profile section start */
+
+.profile{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-6, .item-7, .item-8, .item-9{
+	background-color:white;	
+	height:100px;
+}
+
+/* profile section end */
+
+/* content section start */
+
+.content{
+	background-color:black;
+	padding:15px 0;
+}
+.item-10{
+	background-color:white;
+	height:280px;
+
+}
+
+.item-11, .item-12, .item-13{
+	background-color:white;
+	height:250px;
+}
+
+/* content section end */
+
+
+/* partner-details section start */
+
+.partner-details{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-14{
+	background-color:white;
+	height:90px;
+	
+}
+
+/* partner-details section end */
+
+/* course-heading section start */
+
+.course-heading{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-15{
+	background-color:white;
+	height:90px;
+	
+}
+
+/* course-heading section end */
+
+
+/* course-details section start */
+
+.course-details{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-16{
+	background-color:white;
+	height:280px;
+}
+
+/* course-details section end */
+
+
+/* staff-details section end */
+
+.staff-details{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-17{
+	background-color:white;
+
+	height:280px;
+	
+}
+
+/* staff-details section end */
+
+
+/* other-details section start */
+
+.other-details{
+	background-color:black;
+	padding:15px 0;
+}
+
+.item-18, .item-19, .item-20, .item-21{
+	background-color:white;
+	
+	height:180px;
+	
+}
+
+/* other-details section end */
+
+
+/* footer section start*/
+
+footer{
+	background-color:black;
+	padding:15px;
+}
+
+
+.item-22{
+	background-color:white;
+
+	height:100px;
+
+}
+
+/* footer section end */
+
+
+
+
+
+
+
+
+
+.col-1{
+	width:8.3%;
+	padding:0 15px;
+}
+
+.col-2{
+	width:16.6%;
+	padding:0 15px;
+}
+
+.col-3{
+	width:25%;
+	padding:0 15px;
+	
+}
+
+.col-4{
+	width:33.3%;
+	padding:0 15px;
+}
+
+.col-5{
+	width:41.6%;
+	padding:0 15px;
+
+}
+
+.col-6{
+	width:50%;
+	padding:0 15px;
+
+}
+
+.col-7{
+	width:58.3%;
+	padding:0 15px;
+
+}
+
+.col-8{
+	width:66.6%;
+	padding:0 15px;
+
+}
+
+.col-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-10{
+	width:83.3%;
+	padding:0 15px;
+}
+
+.col-11{
+	width:91.6%;
+	padding:0 15px;
+}
+
+.col-12{
+	width:100%;
+	padding:0 15px;
+}
